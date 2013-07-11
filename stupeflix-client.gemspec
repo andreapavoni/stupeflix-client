@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'stupeflix/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "stupeflix"
+  spec.name          = "stupeflix-client"
   spec.version       = Stupeflix::VERSION
   spec.authors       = ["Andrea Pavoni"]
   spec.email         = ["andrea.pavoni@gmail.com"]
