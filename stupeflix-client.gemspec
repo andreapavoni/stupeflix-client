@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["andrea.pavoni@gmail.com"]
   spec.description   = %q{A Ruby client for http://stupeflix.com API}
   spec.summary       = %q{A Ruby client for http://stupeflix.com API}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/apeacox/stupeflix-client"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
