@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Stupeflix::VERSION
   spec.authors       = ["Andrea Pavoni"]
   spec.email         = ["andrea.pavoni@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{A Ruby client for http://stupeflix.com API}
+  spec.summary       = %q{A Ruby client for http://stupeflix.com API}
   spec.homepage      = ""
   spec.license       = "MIT"
 
