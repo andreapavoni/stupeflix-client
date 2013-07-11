@@ -7,7 +7,7 @@ At the moment, I've only took the Ruby code and packed it _as is_ into a gem to 
 
 Add this line to your application's Gemfile:
 
-    gem 'stupeflix'
+    gem 'stupeflix-client'
 
 And then execute:
 
@@ -15,7 +15,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install stupeflix
+    $ gem install stupeflix-client
 
 ## Usage
 
