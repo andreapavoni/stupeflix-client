@@ -64,7 +64,7 @@ module Stupeflix
       headers['User-Agent'] = 'Basic Agent'
 
       if method != "get"
-        unless body and filename
+        if !body and filename
           bodystream = File.open(filename, 'r')
         end
       end
