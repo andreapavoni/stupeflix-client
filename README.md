@@ -1,6 +1,7 @@
-# Stupeflix
+# Stupeflix API Ruby client
 
-TODO: Write a gem description
+This is a gem-ified version of the [Official Stupeflix API Client](https://github.com/Stupeflix/Stupeflix-API-Client).
+At the moment, I've only took the Ruby code and packed it _as is_ into a gem to get it more usable inside a Ruby/Rails project.
 
 ## Installation
 
@@ -18,7 +19,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See the [examples/](https://github.com/apeacox/stupeflix-client/tree/master/examples) folder.
+
+## TODO
+
+* add tests (perhaps rspec or minitest/spec would be perfect)
+* refactor code to get closer to the _ruby way_
+* add better builder (I'd use 'builder' gem to keep dependencies simple)
 
 ## Contributing
 
